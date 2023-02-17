@@ -1,0 +1,130 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+  background-color: #CDCDCD;
+  text-align: center;
+ line-height: normal;
+  }
+  h1{
+color: black;
+size: 35px;
+  }
+.green_type{
+size: 35px;
+color: #5C961D;
+}
+.green_type2{
+padding: 0;
+size: 35px;
+color: #5C961D;
+}
+.imgs_firstrow{
+display: inline-block;
+width: 1200px;
+}
+#monterrey{
+display: inline-block;
+margin-right: 100px;
+}
+#metlife{
+  display: inline-block;
+  margin-right: 100px;
+  }
+  #qualitas{
+display: inline-block;
+  }
+
+
+
+  .imgs_secondrow{
+    display: inline-block;
+    width: 1100px;
+    vertical-align: top;
+    }
+    #multiva{
+      display: inline-block;
+      margin-right: 100px;
+   
+ }
+      #allianz{
+        display: inline-block;
+        margin-right: 100px;
+       
+        }
+        #aig{
+      display: inline-block;
+        }
+.grey_type{
+color: #B6B6B6;
+size: 50px;
+}
+.form{
+width: 700px;
+border: 3px #949393 solid;
+display: inline-block;
+background-color: #EEEEEE;
+border-radius: 20px;
+}
+.boxes{
+text-align: center;
+margin-left: 10px;
+}
+.squares{
+width: 600px;
+height: 40px;
+text-align: left;
+padding: 10px 10px;
+margin: 20px;
+border: 2px #CCCCCC solid;
+}
+.amplitud{
+  text-align: left;
+  width: 600px;
+  height: 150px;
+  padding: 10px 10px;
+  margin: 20px;
+  border: 2px #CCCCCC solid;
+  color: #B6B6B6;
+size: 50px;
+}
+.izquierda{
+  text-align: left;
+  margin: 0px 20px;
+  color: #B6B6B6;
+size: 50px;
+}
+.palomita{
+display: inline-block;
+text-align: left;
+margin: 0 10px 10px 0;
+}
+.checkbox{
+display: inline-block;
+}
+.terminos{
+display: inline-block;
+}
+.condiciones{
+text-decoration: dotted;
+color: #E79693;
+}
+.btn{
+
+  width: 400px;
+  height: 50px;
+  background-color: #F29F05;
+  text-align: center;
+  text-decoration: solid;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
